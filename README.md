@@ -7,7 +7,7 @@ This is a basic Hello World software created to demonstrate the use of Visual St
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/mDp9YYxtm4c)
+[Software Demo Video](https://youtu.be/fXTz2lzpC-g)
 
 # Development Environment
 
